@@ -20,7 +20,7 @@ public class Main {
             System.out.println("ProductID: " + ProductID);
             System.out.println("ProductName: " + ProductName);
             System.out.println("Unit Price: " + UnitPrice);
-            System.out.println("Units In Stock: " + UnitsInStock);
+
 
         } connection.close();
     }
